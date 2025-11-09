@@ -2,6 +2,10 @@
 
 AI-powered counter-intelligence system that engages scammers to waste their time and extract threat intelligence.
 
+**Demo:**
+
+https://github.com/user-attachments/assets/e434700f-1bb5-4c3b-9837-f58124b7edbf
+
 **Tech Stack:** Python • Groq (Llama 3.1) • Streamlit • NLP
 
 ---
